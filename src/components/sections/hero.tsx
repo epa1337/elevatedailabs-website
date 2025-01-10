@@ -7,7 +7,7 @@ export function Hero() {
         favorite AI solutions.
       </h1>
       <p className="mt-6 max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-        Our #1 goal is to satisfy our customers' needs through innovative AI solutions.
+        Our Goal: To create delightful experiences through technology.
       </p>
       <div className="mt-8">
         <a 
