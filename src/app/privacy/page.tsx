@@ -238,10 +238,15 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-semibold mt-8">Children's Privacy</h2>
           <p>
             Our Service does not address anyone under the age of 13. We do not knowingly collect personally
-            identifiable information from anyone under the age of 13. If You are a parent or guardian and You are
+            identifiable information from anyone under the age of 13.
+            During app onboarding, the parent may be asked to provide a nickname or a child's first name, this is a skippable event.
+            The nickname or first name provided is not saved, stored or used anywhere in our system. It is purely for engagement purposes during onboarding.
+            <p>
+            If You are a parent or guardian and You are
             aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that
             We have collected Personal Data from anyone under the age of 13 without verification of parental
             consent, We take steps to remove that information from Our servers.
+            </p>
           </p>
           <p>
             If We need to rely on consent as a legal basis for processing Your information and Your country
